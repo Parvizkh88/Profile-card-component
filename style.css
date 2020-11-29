@@ -73,3 +73,7 @@ p {
 .attribution {
     margin-top: 80px;
 }
+
+.attribution a{
+text-decoration: none;
+}
